@@ -12,9 +12,13 @@ Run `mvn spring-boot:run` for a development. Navigate to `http://localhost:8080/
 Existing endpoints:
 
 GET - http://localhost:8080/api/user/  `Gets all the users`
+
 GET - http://localhost:8080/api/user/1  `Gets one user by ID`
+
 POST - http://localhost:8080/api/user/  `Creates a user`
+
 PUT - http://localhost:8080/api/user/2  `Updates a user`
+
 DELETE - http://localhost:8080/api/user/2  `Deletes a user`
 
 ## NOTE
